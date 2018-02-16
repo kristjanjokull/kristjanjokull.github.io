@@ -3,6 +3,18 @@ html,body {
     font-size: 14px;
     background: #F0F2F4;
   }
+
+  /* Jumbatron */
+  .hero-body .container {
+    max-width: 700px;
+  }
+
+  .hero-body .subtitle {
+      color: hsl(192,17%,99%) !important;
+      padding-top: 2rem;
+      line-height: 1.5;
+  }
+
   .navbar.is-white {
     background: #F0F2F4;
   }
